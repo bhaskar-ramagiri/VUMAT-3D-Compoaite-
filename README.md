@@ -1,4 +1,4 @@
-# VUMAT-3D-Compoaite-
+# VUMAT-3D-Composite-
 VUMAT for Composite for solid elements based on hashin
 What is the reference I used to develop my VUMAT?
 [1] joy Pederson thesis 
