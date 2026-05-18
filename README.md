@@ -1,8 +1,8 @@
 # VUMAT-3D-Composite-
 VUMAT for Composite for solid elements based on hashin
-What is the reference I used to develop my VUMAT?
+#Refrence 
 [1] joy Pederson thesis 
-
+#Modifications implemented on the base Hashin Model from refrence
 What are the errors that I solved?
 1)	lDmg = 0 is not define instead lfail =0 is defined may be intentionally, that is corrected.
 What is my contribution:
